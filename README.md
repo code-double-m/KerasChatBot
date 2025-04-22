@@ -54,6 +54,3 @@ You can modify the embedding dimension, the number of LSTM units, or the number 
 
 The model is saved automatically as chatbot_model.h5 after training. It is then loaded before entering the chatbot loop.
 
-## Notes
-
-This chatbot is a basic prototype intended for educational or experimental purposes.
